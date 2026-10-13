@@ -1,0 +1,14 @@
+/*
+  Homework 1 — Profile
+
+  Create at least 4 variables about yourself:
+  firstName, age, city, isStudent (true or false)
+
+  Print them like this:
+  Name: Sara
+  Age: 22
+  City: Muscat
+  Student: true
+*/
+
+// your code here
